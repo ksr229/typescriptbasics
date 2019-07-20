@@ -1,0 +1,14 @@
+{
+    "url": "http://google.com.au",
+    "locators": {
+        "homepage": {
+            "button": "button locator",
+            "img": "image locator"
+        },
+        "loginpage": {
+            "username": "username locator",
+            "password": "password loactor"
+        },
+        "password": 123
+    }
+}

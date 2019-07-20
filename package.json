@@ -4,7 +4,7 @@
   "description": "Automation framework using typescript",
   "main": "index.js",
   "scripts": {
-    "test": "node C:/dev/typescriptbasics/dist/02_types.js",
+    "test": "node C:/dev/typescriptbasics/dist/08_readingJSON.js",
     "pretest": "tsc"
   },
   "author": "Sushank",
