@@ -1,0 +1,18 @@
+https://www.youtube.com/watch?v=WBPrJSw7yQA
+
+how to watch the changes in the compiled file so that you dont have to tsc again and again when the .ts file has been modified
+    use tsc <file_name> --watch
+    after that you can just type following in the CLI
+    node file_name.js
+
+Variable Declaration:
+    let and const keywords.
+    let: 
+        1)  Can be declared without being initialized.
+        2)  Can be assigned a new value.
+
+    const:
+        1)  Needs to always be initialized while being declared.
+        2)  cannot be assigned a new value.
+  
+    global and function scope

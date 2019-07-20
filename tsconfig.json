@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "sourceMap": false,   //This stops the .map file to be generated when the transpiler runs
+        "outDir": "dist",     // This decides where the transpiled files will be saved.  
+        "lib":["es2015"]
+    }
+}
